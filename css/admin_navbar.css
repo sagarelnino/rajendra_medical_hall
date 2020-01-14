@@ -1,0 +1,92 @@
+.my-nav{
+    margin: 0;
+    border-radius: 0;
+}
+body{
+    background-color: #cbffa6;
+}
+.my-nav .navbar-brand{
+    color: greenyellow;
+}
+.my-nav li a:hover{
+    background-color: greenyellow;
+}
+li a:active{
+    background: #ADFF2F;
+}
+.my-table{
+    border: 2px solid white;
+    border-radius: 15px;
+    padding: 2%;
+    background-color: #e6ffc4;
+    margin-top: 2%;
+    margin-bottom: 3%;
+}
+table tr th{
+    background-color: white;
+}
+table tr:hover{
+    background-color: white;
+}
+.mandatory{
+    color: red;
+}
+.my-invoice{
+    margin-top : 2%;
+}
+.inner-form{
+    display: inline-block;
+}
+.invoice-creator{
+    background: #b6ea91;
+    padding: 2%;
+    border-radius: 10px;
+}
+.shop-details{
+    text-align: center;
+}
+.title{
+    font-family: Bahnschrift;
+}
+.add{
+    font-family: Bahnschrift;
+}
+.invoice-by{
+    font-family: Bahnschrift;
+    font-size: 0.9em;
+    font-style: italic;
+}
+.short-border{
+    border: 1px solid white;
+    text-align: center;
+    border-radius: 10px;
+    padding: 2%;
+    background-color: #e6ffc4;
+}
+.my-div{
+    border: 1px solid white;
+    text-align: center;
+    border-radius: 10px;
+    padding: 2%;
+    background-color: #e6ffc4;
+}
+.foot{
+    margin-top: 2%;
+    background-color: #222222;
+    color: #f5f5f5;
+    float: none;
+    padding: 2em;
+    width: 100%;
+}
+.foot-fixed{
+    background-color: #222222;
+    color: #f5f5f5;
+    padding: 2em;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+h4{
+    font-weight: bold;
+}
